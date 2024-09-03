@@ -1,1 +1,3 @@
-
+-Food delivery system
+-UI elements to teach older adults and eldery people
+-Vertical farming
